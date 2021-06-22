@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - KERALA  || 22 Jun 2021 | 03:00:20 PM
+-------------------------------------------------------------
+Current temperature is: 26.82 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 95
+Current wind speed    : 0.78
